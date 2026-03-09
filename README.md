@@ -1,2 +1,1 @@
-"# FDS" 
-"# PROJECT1-QR-GENERATOR" 
+Orphion Tech DS Internship Task 1
